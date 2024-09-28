@@ -1,0 +1,9 @@
+{
+	"id": "d4hOBs22GxXF1xK",
+	"json": "{\"id\":\"d4hOBs22GxXF1xK\",\"url\":\"https://github.com/storybookjs/storybook\",\"uniqueKey\":\"https://github.com/storybookjs/storybook\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"user\":\"storybookjs\",\"repo\":\"storybook\",\"url\":\"https://github.com/storybookjs/storybook\",\"stars\":84080,\"description\":\"Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation\",\"topics\":[\"react\",\"javascript\",\"stories\",\"testing\",\"html\",\"components\",\"documentation\",\"styleguide\",\"design-systems\",\"angular\",\"typescript\",\"ui\",\"react-native\",\"webpack\",\"workshop\",\"vue\",\"web-components\",\"svelte\",\"storybook\",\"vite\"],\"label\":\"repository\"}}",
+	"method": "GET",
+	"orderNo": 1727516364359,
+	"retryCount": 0,
+	"uniqueKey": "https://github.com/storybookjs/storybook",
+	"url": "https://github.com/storybookjs/storybook"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "r9frmsiVQwp51hX",
+	"json": "{\"id\":\"r9frmsiVQwp51hX\",\"url\":\"https://github.com/microsoft/TypeScript\",\"uniqueKey\":\"https://github.com/microsoft/TypeScript\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"user\":\"microsoft\",\"repo\":\"TypeScript\",\"url\":\"https://github.com/microsoft/TypeScript\",\"stars\":100381,\"description\":\"TypeScript is a superset of JavaScript that compiles to clean JavaScript output.\",\"topics\":[\"javascript\",\"language\",\"typechecker\",\"typescript\"],\"label\":\"repository\"}}",
+	"method": "GET",
+	"orderNo": 1727516364359,
+	"retryCount": 0,
+	"uniqueKey": "https://github.com/microsoft/TypeScript",
+	"url": "https://github.com/microsoft/TypeScript"
+}

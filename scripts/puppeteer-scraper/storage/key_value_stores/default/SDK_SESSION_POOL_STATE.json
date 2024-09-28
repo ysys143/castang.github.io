@@ -1,0 +1,402 @@
+{
+  "usableSessionsCount": 13,
+  "retiredSessionsCount": 1,
+  "sessions": [
+    {
+      "id": "session_naQEAMBEzL",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:23:22.099Z",
+      "createdAt": "2024-09-28T09:33:22.099Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_YIHx3jUgve",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "tz",
+            "value": "Asia%2FSeoul",
+            "expires": "2024-09-28T10:24:03.994Z",
+            "domain": "github.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-09-28T09:33:24.014Z",
+            "lastAccessed": "2024-09-28T09:34:03.996Z"
+          },
+          {
+            "key": "_octo",
+            "value": "GH1.1.1854931334.1727516002",
+            "expires": "2025-09-28T09:33:22.741Z",
+            "domain": "github.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-09-28T09:33:24.015Z",
+            "lastAccessed": "2024-09-28T09:34:03.995Z"
+          },
+          {
+            "key": "preferred_color_mode",
+            "value": "dark",
+            "expires": "2024-09-28T10:24:03.994Z",
+            "domain": "github.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-09-28T09:33:24.015Z",
+            "lastAccessed": "2024-09-28T09:34:03.995Z"
+          },
+          {
+            "key": "logged_in",
+            "value": "no",
+            "expires": "2025-09-28T09:33:22.742Z",
+            "domain": "github.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-09-28T09:33:24.015Z",
+            "lastAccessed": "2024-09-28T09:34:03.995Z"
+          },
+          {
+            "key": "_gh_sess",
+            "value": "B5ywl3o9oLF9Yrn8i4qYFYm0ZsKrbqgmPmHYyX45cVFlEAa6RzAzWb5VeqLO37sDB4GfLkaUpuj7HRh6StmhMqMPxAq3Voq0r11xAzcI%2FCa2GMxgLSIlBZY3DPUB58ZXR6kP65E%2FaXTngcXcOW7%2FSMub6SUR64TjnkywVUdWtRxvfHkSTSILgh9wJccOmzV8ues2yZ9rVhrkK7soiW17EVAjc56M3pGytaIADqnv6vkDGwORI20CgVsKlwa7kQQZ7YN%2F1A6I2UpA%2BPQek9chyg%3D%3D--tFN9AcYElpNarqE%2F--Lzaw2sfzKI%2BDZ%2Buc%2BMgnzw%3D%3D",
+            "expires": "2024-09-28T10:23:24.013Z",
+            "domain": "github.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2024-09-28T09:33:24.016Z",
+            "lastAccessed": "2024-09-28T09:34:03.994Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:23:22.100Z",
+      "createdAt": "2024-09-28T09:33:22.100Z",
+      "usageCount": 8,
+      "maxUsageCount": 50,
+      "errorScore": 10
+    },
+    {
+      "id": "session_qQWUhW1nbg",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:23:24.370Z",
+      "createdAt": "2024-09-28T09:33:24.370Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_xrVJ1YcizI",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:23:24.370Z",
+      "createdAt": "2024-09-28T09:33:24.370Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_UZIOboEeWf",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:23:32.132Z",
+      "createdAt": "2024-09-28T09:33:32.132Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_dNDpyQ66Jn",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:23:42.144Z",
+      "createdAt": "2024-09-28T09:33:42.144Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_vdM3sRjNjR",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:23:52.163Z",
+      "createdAt": "2024-09-28T09:33:52.163Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ZIOnwdDPFW",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:23:55.449Z",
+      "createdAt": "2024-09-28T09:33:55.449Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_TavDjQY4Gr",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:23:56.621Z",
+      "createdAt": "2024-09-28T09:33:56.621Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_ke5HPLbJxT",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:24:02.181Z",
+      "createdAt": "2024-09-28T09:34:02.181Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_LNLldegOxd",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:24:04.903Z",
+      "createdAt": "2024-09-28T09:34:04.903Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_4AzfqEmaMT",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "tz",
+            "value": "Asia%2FSeoul",
+            "expires": "2024-09-28T10:24:14.577Z",
+            "domain": "github.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-09-28T09:34:06.664Z",
+            "lastAccessed": "2024-09-28T09:34:14.578Z"
+          },
+          {
+            "key": "_octo",
+            "value": "GH1.1.1486666856.1727516045",
+            "expires": "2025-09-28T09:34:05.889Z",
+            "domain": "github.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-09-28T09:34:06.665Z",
+            "lastAccessed": "2024-09-28T09:34:14.578Z"
+          },
+          {
+            "key": "preferred_color_mode",
+            "value": "dark",
+            "expires": "2024-09-28T10:24:14.577Z",
+            "domain": "github.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2024-09-28T09:34:06.665Z",
+            "lastAccessed": "2024-09-28T09:34:14.578Z"
+          },
+          {
+            "key": "logged_in",
+            "value": "no",
+            "expires": "2025-09-28T09:34:05.889Z",
+            "domain": "github.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2024-09-28T09:34:06.666Z",
+            "lastAccessed": "2024-09-28T09:34:14.577Z"
+          },
+          {
+            "key": "_gh_sess",
+            "value": "8miK%2Bf2DycXYptAfJpPcNL2QMpf%2F238tJ59d9vbAEBcZAB5NpyEwa8wQ%2BWjgJbIvEHu5b3g%2FhiS%2BG0kYzwFzEUtkIrA3lxCZVwElTDdhCwI%2FaUjUAVglIOGkkY%2FoYuf2PRtrw8tvx8LEWW5xRdC%2FqIb5eqHZO%2BVZahEwkB9G%2FKvwfuigocixljeB0j1YYHh%2FZFabR5I8jbOcaE5ODVzyuEdmR9y1Ed2mV2ItOD5bI4NorHqcpXc8cpSRz7ORflHxH2tQFbQiBsOtjtiGNIS4nA%3D%3D--6aMNFon84hdRVHzj--wwMTY%2F3O%2FqFS0eXmUdA63w%3D%3D",
+            "expires": "2024-09-28T10:24:06.664Z",
+            "domain": "github.com",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2024-09-28T09:34:06.666Z",
+            "lastAccessed": "2024-09-28T09:34:14.577Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:24:04.904Z",
+      "createdAt": "2024-09-28T09:34:04.904Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_oGrcnI1ZYw",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:24:12.198Z",
+      "createdAt": "2024-09-28T09:34:12.198Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_5oGMYSLvF1",
+      "cookieJar": {
+        "version": "tough-cookie@4.1.4",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2024-09-28T10:24:13.141Z",
+      "createdAt": "2024-09-28T09:34:13.141Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

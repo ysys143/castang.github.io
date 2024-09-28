@@ -1,0 +1,9 @@
+{
+	"id": "nL4gWo3yZI2Ivjz",
+	"json": "{\"id\":\"nL4gWo3yZI2Ivjz\",\"url\":\"https://github.com/angular/angular\",\"uniqueKey\":\"https://github.com/angular/angular\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"user\":\"angular\",\"repo\":\"angular\",\"url\":\"https://github.com/angular/angular\",\"stars\":95860,\"description\":\"Deliver web apps with confidence 🚀\",\"topics\":[\"javascript\",\"angular\",\"typescript\",\"web-performance\",\"web\",\"pwa\",\"web-framework\"],\"label\":\"repository\"}}",
+	"method": "GET",
+	"orderNo": 1727516364359,
+	"retryCount": 0,
+	"uniqueKey": "https://github.com/angular/angular",
+	"url": "https://github.com/angular/angular"
+}

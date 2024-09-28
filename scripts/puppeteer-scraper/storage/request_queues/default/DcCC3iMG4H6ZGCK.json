@@ -1,0 +1,9 @@
+{
+	"id": "DcCC3iMG4H6ZGCK",
+	"json": "{\"id\":\"DcCC3iMG4H6ZGCK\",\"url\":\"https://github.com/denoland/deno\",\"uniqueKey\":\"https://github.com/denoland/deno\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"user\":\"denoland\",\"repo\":\"deno\",\"url\":\"https://github.com/denoland/deno\",\"stars\":94441,\"description\":\"A modern runtime for JavaScript and TypeScript.\",\"topics\":[\"javascript\",\"rust\",\"typescript\",\"deno\"],\"label\":\"repository\"}}",
+	"method": "GET",
+	"orderNo": 1727516364359,
+	"retryCount": 0,
+	"uniqueKey": "https://github.com/denoland/deno",
+	"url": "https://github.com/denoland/deno"
+}
