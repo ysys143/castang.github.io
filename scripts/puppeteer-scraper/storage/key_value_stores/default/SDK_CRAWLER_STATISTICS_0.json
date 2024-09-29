@@ -1,36 +1,49 @@
 {
   "requestsFinished": 1,
-  "requestsFailed": 0,
-  "requestsRetries": 0,
-  "requestsFailedPerMinute": 0,
-  "requestsFinishedPerMinute": 1,
+  "requestsFailed": 20,
+  "requestsRetries": 20,
+  "requestsFailedPerMinute": 5,
+  "requestsFinishedPerMinute": 0,
   "requestMinDurationMillis": 2254,
   "requestMaxDurationMillis": 2254,
-  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFailedDurationMillis": 630375,
   "requestTotalFinishedDurationMillis": 2254,
   "crawlerStartedAt": "2024-09-28T09:33:22.067Z",
-  "crawlerFinishedAt": null,
-  "statsPersistedAt": "2024-09-28T09:34:22.064Z",
-  "crawlerRuntimeMillis": 60127,
+  "crawlerFinishedAt": "2024-09-28T09:37:17.169Z",
+  "statsPersistedAt": "2024-09-28T09:37:17.169Z",
+  "crawlerRuntimeMillis": 235232,
   "crawlerLastStartTimestamp": 1727516001937,
   "requestRetryHistogram": [
-    1
+    1,
+    null,
+    null,
+    20
   ],
   "statsId": 0,
-  "requestAvgFailedDurationMillis": null,
+  "requestAvgFailedDurationMillis": 31519,
   "requestAvgFinishedDurationMillis": 2254,
-  "requestTotalDurationMillis": 2254,
-  "requestsTotal": 1,
+  "requestTotalDurationMillis": 632629,
+  "requestsTotal": 21,
   "requestsWithStatusCode": {
-    "200": 12
+    "200": 81
   },
-  "errors": {},
+  "errors": {
+    "file:///Users/jaesolshin/Documents/GitHub/web_basic/test-site/ysys143.github.io/scripts/puppeteer-scraper/crawlee.js:12:13": {
+      "missing error code": {
+        "TimeoutError": {
+          "Waiting for selector `span.d-none.d-sm-inline > strong` failed: Waiting failed: 30000ms exceeded": {
+            "count": 20
+          }
+        }
+      }
+    }
+  },
   "retryErrors": {
     "file:///Users/jaesolshin/Documents/GitHub/web_basic/test-site/ysys143.github.io/scripts/puppeteer-scraper/crawlee.js:12:13": {
       "missing error code": {
         "TimeoutError": {
           "Waiting for selector `span.d-none.d-sm-inline > strong` failed: Waiting failed: 30000ms exceeded": {
-            "count": 4
+            "count": 60
           }
         }
       }
